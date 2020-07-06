@@ -12,7 +12,7 @@ As developers, we do our best to hide it, but all of the Internet is
 just a bunch of strings being passed around from place to place. Don't
 tell the cats.
 
-![cat string](http://i.giphy.com/DXgkevJQFPhew.gif)
+![cat string](http://i.giphy.com/DXgkevJQFPhew.gif) .
 
 We format our strings so that we can render them in an agreed-upon way, but it's
 all just strings. All you have to do is drop into your terminal and try: `curl https://twitter.com`.
